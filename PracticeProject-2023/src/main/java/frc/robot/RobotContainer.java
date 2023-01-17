@@ -32,8 +32,8 @@ public class RobotContainer {
     public RobotContainer() {
 
         m_driveSubsystem.setDefaultCommand(new DriveCommand(m_driveSubsystem, 
-        () -> d_controller.getLeftY(), 
         () -> d_controller.getLeftX(), 
+        () -> d_controller.getLeftY(), 
         () -> d_controller.getRightX()));
 
         // Configure the button bindings
