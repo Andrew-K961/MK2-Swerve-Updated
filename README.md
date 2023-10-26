@@ -1,4 +1,8 @@
-# Updated SDS Mark-2 Swerve Drive
+# Updated SDS Mark-2 Swerve Drive OUTDATED
+Use https://github.com/FRC-Team-1710/Mk2-Swerve
+
+
+
 Updated by 1710 to work with 2023
 
 To build correctly, first set your [JAVA_HOME environment variable](https://mkyong.com/java/how-to-set-java_home-on-windows-10/) which will be in `\wpilib\2023\jdk`.
